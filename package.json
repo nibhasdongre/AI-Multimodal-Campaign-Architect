@@ -7,7 +7,6 @@
     "build": "next build",
     "start": "next start",
     "build:demo-data": "node scripts/build-demo-data.mjs",
-    "prebuild":"npm run build:demo-data",
     "lint": "next lint"
   },
   "dependencies": {
