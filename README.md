@@ -1,9 +1,10 @@
 # AI Multimodal Campaign Architect
 
-**Agentic AI · Model Context Protocol**
+**Agentic Workflow · Model Context Protocol**
 
-An agentic MCP pipeline that plans, writes, illustrates, and voices a full marketing campaign — with a human checkpoint before the expensive part.
-
+An agentic MCP workflow that plans, writes, illustrates, and voices a full marketing campaign — with a human checkpoint before the expensive part.
+![Project Logo](assets/pipeline.png)
+![App Demo](public/demo.mp4)
 Give it one prompt — *"Launch a bold sneaker line targeting Gen Z"* — and it runs an agentic pipeline of MCP tools that generates copy, a moodboard, a voiceover, a presentation pitch, and a final campaign image, with automated guardrails and a hard budget cap along the way.
 
 **[Click here to check it out ](https://ai-multimodal-campaign-architect-gl808c9v7-nibha-dongre.vercel.app/)**
