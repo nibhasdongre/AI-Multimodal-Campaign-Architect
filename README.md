@@ -6,9 +6,7 @@ An agentic MCP pipeline that plans, writes, illustrates, and voices a full marke
 
 Give it one prompt — *"Launch a bold sneaker line targeting Gen Z"* — and it runs an agentic pipeline of MCP tools that generates copy, a moodboard, a voiceover, a presentation pitch, and a final campaign image, with automated guardrails and a hard budget cap along the way.
 
-**[Live demo →](https://ai-multimodal-campaign-architect-gl808c9v7-nibha-dongre.vercel.app/)** &nbsp;·&nbsp; **[Run it yourself with your own keys ↓](#running-the-pipeline-byok)**
-
-![Demo](public/demo.mp4)
+**[Live demo →](https://ai-multimodal-campaign-architect-gl808c9v7-nibha-dongre.vercel.app/)*
 
 ---
 
