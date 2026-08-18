@@ -3,6 +3,9 @@
 **Agentic Workflow · Model Context Protocol**
 
 An agentic MCP workflow that plans, writes, illustrates, and voices a full marketing campaign — with a human checkpoint before the expensive part.
+<p align="center">
+  <img src="public/pipeline.png" width="800">
+</p>
 
 Give it one prompt — *"Launch a bold sneaker line targeting Gen Z"* — and it runs an agentic pipeline of MCP tools that generates copy, a moodboard, a voiceover, a presentation pitch, and a final campaign image, with automated guardrails and a hard budget cap along the way.
 
